@@ -19,8 +19,8 @@ $GLOBALS['TL_LANG']['tl_module']['gtc_page'] = array
 );
 $GLOBALS['TL_LANG']['tl_module']['disclaimer_page'] = array
 (
-  'Datenschutz Seite',
-  'Bitte wählen Sie die Seite aus, die den Datenschutz enthält.'
+  'Datenschutzerklärungs Seite',
+  'Bitte wählen Sie die Seite aus, die den Datenschutzerklärung enthält.'
 );
 $GLOBALS['TL_LANG']['tl_module']['licence_agreement_page']  = array
 (
